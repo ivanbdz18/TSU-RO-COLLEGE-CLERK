@@ -30,7 +30,6 @@
             <md-button class="md-raised md-primary">Send</md-button>
           </div>
         </div>
-
       </md-card-content>
     </md-card>
   </form>
