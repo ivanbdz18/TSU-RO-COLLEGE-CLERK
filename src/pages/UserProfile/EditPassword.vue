@@ -51,7 +51,7 @@ export default {
         new_pwd: this.nPass
       }
       try {
-        await axios.post(`http://192.168.1.38:3000/users/${userId}/new-password`, data)
+        await axios.post(`http://192.168.43.145:3000/users/${userId}/new-password`, data)
       } catch (e) {
       }
     }
